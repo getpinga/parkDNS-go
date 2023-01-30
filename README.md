@@ -1,5 +1,5 @@
 # parkDNS
-A Golang-based DNS server for unified domain management.
+A Golang-based DNS server for unified domain management. Install and define the zone in the config file. Then point all domains to in and it will serve the same zone details for all parked domains.
 
 ## Install
 
